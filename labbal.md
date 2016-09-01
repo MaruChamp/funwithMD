@@ -14,8 +14,10 @@ Now, let's have some fun!
 
 Create another section header, give it a name, and italicize the header.
 
+##<i>Anything</i>
+
 Who doesn't love a good meme? Either find or create a meme about data!
-* Post your meme as an image.
+! [alt text](http://i.imgur.com/iVHfwLc.mp4)
 
 Share a video from YouTube that we all shoudn't live without. 
 
