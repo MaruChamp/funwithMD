@@ -2,14 +2,14 @@ Complete the following items using Markdown.
 
 Create a section header, call it "Definition", and italicize the header.
 
+##<i>Definition</i>
 
 What is Markdown?
-  * Google it! Then, provide a definition as a block quote.
-  * Include a citation after the quote and turn it into a link. 
- 
+>At its core, Markdown is a super simple way to add formatting like headers, bold, bulleted lists, and so on to plain text. It was originally designed to be an easy alternative to HTML, and allows people to create web pages with no HTML experience—but it's also a great way to organize notes, to-do lists, and other things.
+[Lifehacker](http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to-do-lists-and-notes)
+
 It's great for code! Take a command we learned to use in the terminal and share it. Hint: Instead of "python" or "javascript", we will use "sh" for shell.
-  
- 
+
 Now, let's have some fun! 
 
 Create another section header, give it a name, and italicize the header.
