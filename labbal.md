@@ -17,19 +17,23 @@ Create another section header, give it a name, and italicize the header.
 ##<i>Anything</i>
 
 Who doesn't love a good meme? Either find or create a meme about data!
-! [alt text](http://i.imgur.com/iVHfwLc.mp4)
+![Alt Text](https://i.makeagif.com/media/8-22-2015/T_1-1L.gif) 
 
-Share a video from YouTube that we all shoudn't live without. 
+#THE HAX
 
-Create another section header, give it a name, and italicize the header.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DpGiGN72Heo"
+target="_blank"><img src="http://img.youtube.com/vi/DpGiGN72Heo/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="400" height="360" border="20" /></a>
 
-I think Digital Humanities ___________________
-* Finish the sentence. 
+##<i>終わり</i>
+
+I think Digital Humanities _is a necessary field of study for the digital age we currently live in._
 
 The biggest questions I have going into this class are:
-  * Make sure to provide your answer as a bulleted list.
-  
- 
+  * How can I integrate this course into the knowledge I already have from my RHCS studies?
+  * How deep in to the study of Digital Humanities can we go in an intro course?
+  * Would Lauren be willing to help me figure out these answers even after the semester ends?           
+   * Will Lauren be okay with me calling her Lauren instead of "Dr. Tilton"?!
   
   
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
