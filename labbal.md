@@ -27,7 +27,7 @@ alt="IMAGE ALT TEXT HERE" width="400" height="360" border="20" /></a>
 
 ##<i>終わり</i>
 
-I think Digital Humanities _is a necessary field of study for the digital age we currently live in._
+I think Digital Humanities __is a necessary field of study for the digital age we currently live in.__
 
 The biggest questions I have going into this class are:
   * How can I integrate this course into the knowledge I already have from my RHCS studies?
